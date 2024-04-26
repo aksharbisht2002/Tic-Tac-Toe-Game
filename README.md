@@ -5,7 +5,6 @@ This project is a simple Android application implementing the classic game of Ti
 ## Features
 
 - **Simple Interface:** The app provides a user-friendly interface for playing Tic Tac Toe.
-- **Single Player Mode:** Play against an AI opponent.
 - **Two Player Mode:** Play against another player on the same device.
 - **Winning Detection:** The game detects when a player has won or if the game ends in a draw.
 - **Interactive Gameplay:** Players can tap the grid to make their moves.
